@@ -250,6 +250,10 @@ body {
   font-size: 14.5px;
 }
 
+.cart-bar[hidden] {
+  display: none;
+}
+
 /* ---------- Painel de revisão ---------- */
 .review-overlay {
   position: fixed;
@@ -258,6 +262,10 @@ body {
   z-index: 30;
   display: flex;
   align-items: flex-end;
+}
+
+.review-overlay[hidden] {
+  display: none;
 }
 
 .review-sheet {
