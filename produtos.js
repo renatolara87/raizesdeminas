@@ -23,30 +23,23 @@
 const PRODUTOS = [
   {
     id: 1,
-    nome: "Café Torrado e Moído",
-    descricao: "Café 100% arábica, torra média, moagem para coador. Pacote de 500g.",
-    preco: 32.90,
-    foto: "assets/produtos/cafe.jpg"
+    nome: "Café Fino Sabor Superior",
+    descricao: "Café torrado e moído, vácuo puro. Pacote de 500g.",
+    preco: 42.00,
+    foto: "assets/produtos/cafe-fino-sabor.jpg"
   },
   {
     id: 2,
-    nome: "Queijo Minas Artesanal",
-    descricao: "Queijo curado, produzido na fazenda. Peça de aproximadamente 1kg.",
-    preco: 45.00,
-    foto: "assets/produtos/queijo.jpg"
+    nome: "Queijo Minas Padrão",
+    descricao: "Queijo Minas padrão Capobe. Peça de meio quilo (500g).",
+    preco: 39.00,
+    foto: "assets/produtos/queijo-minas.jpg"
   },
   {
     id: 3,
     nome: "Doce de Leite",
-    descricao: "Doce de leite cremoso, feito em tacho de cobre. Pote de 400g.",
-    preco: 22.50,
+    descricao: "Doce de leite Mombó, cremoso. Pote de 500g.",
+    preco: 19.90,
     foto: "assets/produtos/doce-de-leite.jpg"
-  },
-  {
-    id: 4,
-    nome: "Rapadura",
-    descricao: "Rapadura artesanal de cana, sem conservantes. Pacote com 4 unidades.",
-    preco: 18.00,
-    foto: "assets/produtos/rapadura.jpg"
   }
 ];

@@ -1,9 +1,9 @@
-/* ==========================================================
+﻿/* ==========================================================
    Raízes de Minas — lógica da loja
    ========================================================== */
 
 // >>> Configurações da loja <<<
-const NUMERO_WHATSAPP = "5535999031427"; // 55 + DDD + número, só dígitos
+const NUMERO_WHATSAPP = "5511949828008"; // 55 + DDD + número, só dígitos
 const NOME_LOJA = "Raízes de Minas";
 
 // Estado do carrinho: { [id]: quantidade }
